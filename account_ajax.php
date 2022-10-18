@@ -6,6 +6,8 @@
 	$account_no= mysql_fetch_array($execute_bank);
 	echo $account_no['account_no'];
         //echo $account_no['account_no'];
+        //echo $account_no['account_no'];
+
          
 
 
